@@ -44,7 +44,7 @@ The following demonstrates general application functionality:
 
 ## Repository
 
-[Github Repository](https://github.com/SamSherrill/project-2)
+[Github Repository](https://github.com/AlanAshworth/project-2)
 
 ## License
 
